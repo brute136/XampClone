@@ -1,0 +1,19 @@
+div{
+  display:flex;
+  text-align:center;
+  flex-direction:column;
+  margin:12vw;
+  /*justify-content:center;*/
+}
+
+body{
+  font-size:5.5vw;
+}
+input{
+  font-size:4vw;
+  padding:4vw;
+  border-radius:12px;
+  border:1px solid skyblue;
+  outline:none;
+  margin-bottom:1vh;
+}
